@@ -1,0 +1,23 @@
+README.md
+  539047fdad37590c 28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.2",
+  "base_commit_sha": "1845ef4b06cde1c547ad69d23ac6bfddaab4cf4c",
+  "prompts": {
+    "539047fdad37590c": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "a7dcc1f8-d4fe-48b9-be43-4a3ff2d922e2",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Michael Barry",
+      "messages": [],
+      "total_additions": 15,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
