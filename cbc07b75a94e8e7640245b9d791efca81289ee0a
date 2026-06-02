@@ -1,0 +1,25 @@
+.factory-plugin/marketplace.json
+  539047fdad37590c 1-13
+.factory-plugin/plugin.json
+  539047fdad37590c 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.2",
+  "base_commit_sha": "cbc07b75a94e8e7640245b9d791efca81289ee0a",
+  "prompts": {
+    "539047fdad37590c": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "a7dcc1f8-d4fe-48b9-be43-4a3ff2d922e2",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Michael Barry",
+      "messages": [],
+      "total_additions": 25,
+      "total_deletions": 0,
+      "accepted_lines": 25,
+      "overriden_lines": 0
+    }
+  }
+}
