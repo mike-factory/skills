@@ -1,0 +1,25 @@
+.factory-plugin/plugin.json
+  539047fdad37590c 1-9
+README.md
+  539047fdad37590c 7,22-36,53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.2",
+  "base_commit_sha": "876de4fc9a2a4c259f7e5389811b3c8ae460c186",
+  "prompts": {
+    "539047fdad37590c": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "a7dcc1f8-d4fe-48b9-be43-4a3ff2d922e2",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Michael Barry",
+      "messages": [],
+      "total_additions": 26,
+      "total_deletions": 1,
+      "accepted_lines": 26,
+      "overriden_lines": 0
+    }
+  }
+}
