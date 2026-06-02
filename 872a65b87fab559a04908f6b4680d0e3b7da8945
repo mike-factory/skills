@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.2",
+  "base_commit_sha": "872a65b87fab559a04908f6b4680d0e3b7da8945",
+  "prompts": {
+    "539047fdad37590c": {
+      "agent_id": {
+        "tool": "droid",
+        "id": "a7dcc1f8-d4fe-48b9-be43-4a3ff2d922e2",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Michael Barry",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 6,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  }
+}
